@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		E8537FCD2827C56300C8111B /* ItemTableViewCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = E8537FCC2827C56300C8111B /* ItemTableViewCell.swift */; };
 		E884A707281A5115000FBD5D /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = E884A706281A5115000FBD5D /* AppDelegate.swift */; };
 		E884A709281A5115000FBD5D /* SceneDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = E884A708281A5115000FBD5D /* SceneDelegate.swift */; };
 		E884A70B281A5115000FBD5D /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = E884A70A281A5115000FBD5D /* ViewController.swift */; };
@@ -17,6 +18,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		E8537FCC2827C56300C8111B /* ItemTableViewCell.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ItemTableViewCell.swift; sourceTree = "<group>"; };
 		E884A703281A5115000FBD5D /* AtHome.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = AtHome.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		E884A706281A5115000FBD5D /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		E884A708281A5115000FBD5D /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
@@ -62,6 +64,7 @@
 				E884A708281A5115000FBD5D /* SceneDelegate.swift */,
 				E884A70A281A5115000FBD5D /* ViewController.swift */,
 				E884A70C281A5115000FBD5D /* Main.storyboard */,
+				E8537FCC2827C56300C8111B /* ItemTableViewCell.swift */,
 				E884A712281A5118000FBD5D /* Assets.xcassets */,
 				E884A714281A5118000FBD5D /* LaunchScreen.storyboard */,
 				E884A717281A5118000FBD5D /* Info.plist */,
@@ -143,6 +146,7 @@
 			files = (
 				E884A70B281A5115000FBD5D /* ViewController.swift in Sources */,
 				E884A711281A5115000FBD5D /* AtHome.xcdatamodeld in Sources */,
+				E8537FCD2827C56300C8111B /* ItemTableViewCell.swift in Sources */,
 				E884A707281A5115000FBD5D /* AppDelegate.swift in Sources */,
 				E884A709281A5115000FBD5D /* SceneDelegate.swift in Sources */,
 			);
