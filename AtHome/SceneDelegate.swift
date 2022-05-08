@@ -1,10 +1,3 @@
-//
-//  SceneDelegate.swift
-//  AtHome
-//
-//  Created by Michelle Nathania on 28/04/22.
-//
-
 import UIKit
 
 class SceneDelegate: UIResponder, UIWindowSceneDelegate {
